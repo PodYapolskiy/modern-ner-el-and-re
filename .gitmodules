@@ -1,3 +1,6 @@
 [submodule "repos/relik"]
 	path = repos/relik
 	url = https://github.com/dartt0n/relik.git
+[submodule "repos/SPN4RE-NEREL"]
+	path = repos/SPN4RE-NEREL
+	url = https://github.com/dartt0n/SPN4RE-NEREL.git
