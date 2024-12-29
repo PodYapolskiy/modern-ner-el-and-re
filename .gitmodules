@@ -1,0 +1,3 @@
+[submodule "repos/relik"]
+	path = repos/relik
+	url = https://github.com/dartt0n/relik.git
