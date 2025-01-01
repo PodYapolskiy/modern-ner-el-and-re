@@ -1,3 +1,6 @@
+[submodule "repos/entity-extraction"]
+	path = repos/entity-extraction
+	url = git@github.com:PodYapolskiy/entity-extraction.git
 [submodule "repos/relik"]
 	path = repos/relik
 	url = https://github.com/dartt0n/relik.git

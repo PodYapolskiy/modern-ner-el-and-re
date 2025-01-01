@@ -60,8 +60,9 @@ modern-ner-el-and-re
  ┣ reports  # intermediate/final reports during research
  ┃ ┗ *.pdf
  ┣ repos  # submodules (repositories) used in experiments
- ┃ ┣ SPN4RE-NEREL
- ┃ ┗ relik
+ ┃ ┣ entity-extraction
+ ┃ ┣ relik
+ ┃ ┗ SPN4RE-NEREL
  ┣ .gitmodules
  ┣ README.md
  ┗ presentation.pdf  # final presentation
