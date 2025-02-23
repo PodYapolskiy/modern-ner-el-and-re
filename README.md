@@ -6,7 +6,7 @@
 
 ## Overview
 
-We intended to implement a service that would create a knowledge graph based on the text submitted for input and present this information as a graph or a mindmap to the end user. Key technologies for that are <u>Named Entity Recognition (NER)</u>, <u>Entity Linking (EL)</u>, and <u>Relation Extraction (RE)</u>.
+We aimed to implement a service that would create a knowledge graph based on the text submitted for input and present this information as a graph or a mindmap to the end user. Key technologies for that are <u>Named Entity Recognition (NER)</u>, <u>Entity Linking (EL)</u>, and <u>Relation Extraction (RE)</u>. Yet the main problem was that there were no solutions available for Russian language.
 
 *Example input:*
 
